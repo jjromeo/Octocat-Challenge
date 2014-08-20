@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a way of creating a safe place to work on a project as it is without risking changes to the live project or the source code. It is possible to pull down changes from the upstream to ensure that you are testing changes to the most recent version so that you can ensure your changes are compatible with it.
