@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone makes a local copy of a git repository, including all of its current files and its entire history. This enables you to look at and modify the code.
